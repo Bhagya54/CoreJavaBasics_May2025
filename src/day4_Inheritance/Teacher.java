@@ -1,4 +1,4 @@
-package day4;
+package day4_Inheritance;
 
 public class Teacher extends BaseClass {
 
